@@ -2,7 +2,7 @@
 
 ### About
 
--Watch CanalDigitaal/F1 TV/KPN/NLZiet/Telenet (BE)/Telfort/T-Mobile/Videoland/XS4ALL/Ziggo Live TV and content from anywhere in the EU
+-Watch NLZiet/Odido/Videoland and content from anywhere in the EU
 
 ### Features
 
@@ -22,14 +22,9 @@
 
 ### Maximum supported Resolution
 
-- CanalDigitaal: 1080P
-- F1 TV: 1080P (50hz)
-- KPN/Telfort/XS4ALL: 1080P
 - NLZiet: 1080P
-- Telenet (BE): 720P
-- T-Mobile: 1080P
+- Odido: 1080P
 - Videoland: 1080P
-- Ziggo: 720P
 
 ### Required
 
